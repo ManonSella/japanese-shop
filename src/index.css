@@ -27,6 +27,10 @@ a:hover {
 }
 
 body {
+  background: url(./assets/japanese-path.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
   margin: 0;
   display: flex;
   place-items: center;
